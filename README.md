@@ -1,3 +1,4 @@
+![Project Banner](Used_Car_Price_Banner.png)
 # Used Car Price Prediction: Gradient Boosting Model Comparison
 
 **A production ML system design study comparing gradient boosting algorithms for real-time vehicle valuation**
